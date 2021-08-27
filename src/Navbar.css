@@ -69,6 +69,15 @@
   margin-left: -2%;
 }
 
+.navbar a {
+  color: #4560db;
+  text-decoration: none
+}
+
+.navbar a:hover {
+  color: #7487dc;
+}
+
 @keyframes nameTransition {
   43% {content: 'Kate'; text-decoration: none;}
   44% {content: 'Kat'; text-decoration: underline dotted red;}

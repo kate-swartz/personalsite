@@ -9,7 +9,7 @@ class Navbar extends Component {
         <div className="name">
           $ <div className="nameAnimated"/><div className="lastName">Swartz</div>
         </div>
-        <p class="subtitle">software engineer</p>
+        <p class="subtitle">software engineer - <a href="https://github.com/kate-swartz/">github</a></p>
       </div>
     )
   }

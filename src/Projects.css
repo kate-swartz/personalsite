@@ -1,16 +1,18 @@
 .projects {
   padding-top: 6%;
   font-size: 100%;
+}
+
+.projects h1 {
   margin-left: 20%;
-  margin-right: 20%;
 }
 
 .projects-container {
   display:flex;
-  justify-content:flex-start;
   flex-direction: row;
   align-items: flex-start;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .project {
@@ -20,6 +22,11 @@
   padding: 10px 40px;
 }
 
+@media screen and (max-width: 600px) {
+  .project {
+    width: 80%
+  }
+}
 
 .date {
   text-align: right;

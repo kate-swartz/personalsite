@@ -1,0 +1,25 @@
+.projects {
+  padding-top: 6%;
+  font-size: 100%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.projects-container {
+  display:flex;
+  justify-content:flex-start;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.project {
+  width: 50%;
+  margin-right: 2%;
+  margin-top: 2%;
+  padding: 10px 40px;
+}
+
+
+.date {
+  text-align: right;
+}

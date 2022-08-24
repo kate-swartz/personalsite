@@ -9,10 +9,10 @@ class Timeline extends Component {
           <div class="content">
             <h2>June 2021 — Present</h2>
             <p><b>Software Engineer at 84.51°</b></p>
-            <p>At 84.51°, I build software that supports the developent of insights
-            around Kroger's customer data. These insights provide tangible  benefits to a) Kroger,
-            b) the grocery chain's millions of customers, and c) the vendors that sell products
-            in its stores.</p>
+            <p>At 84.51°, I build backend services in Java and Python that
+            deliver marketing campaigns to Kroger and its third-party vendors,
+            allowing for a seamless experience when designing and approving
+            creatives such as web advertisements, email campaigns, and coupons.</p>
           </div>
         </div>
         <div class="container right">

@@ -7,7 +7,7 @@ class About extends Component {
     return (
       <div id="website-header" className="website-header">
         <div className="terminalText">
-          <p>My Website [Version 1.0.1]</p>
+          <p>My Website [Version 1.1.1]</p>
           <p>(c) Kate Swartz 2021-2022. Built with React and hosted on GitHub Pages.</p>
           <p>$ ls</p>
         </div>

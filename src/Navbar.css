@@ -1,8 +1,8 @@
 .navbar {
   position: sticky;
   top: 0;
-  margin-left: -0.4%;
-  margin-right: -0.4%;
+  margin-left: -2.0%;
+  margin-right: -2.0%;
   padding-top: 0.5%;
   padding-left: 20%;
   padding-bottom: 1%;
@@ -50,6 +50,15 @@
     animation-name: nameTransition;
     animation-duration: 30s;
     animation-iteration-count: infinite;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .name {
+    font-size: 200%;
+  }
+  .navbar {
+    margin-top: -2.0%;
   }
 }
 

@@ -51,6 +51,9 @@ sup {
     margin-left: -5.0%;
     margin-right: -5.0%;
   }
+  input {
+    width: 100%;
+  }
   textarea {
       width: 100%;
   }

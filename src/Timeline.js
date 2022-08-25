@@ -5,6 +5,16 @@ class Timeline extends Component {
   render() {
     return (
       <div id="timeline" className="timeline">
+        <div class="container right">
+          <div class="content">
+            <h2>August 2022 — Present</h2>
+            <p><b>Georgia Tech OMSCS</b></p>
+            <p>In fall of 2022 I enrolled as a student in the Online Master
+            of Science in Computer Science program at the Georgia Institute
+            of Technology, hoping to expand my foundational understanding of
+            computer science at a graduate level.</p>
+          </div>
+        </div>
         <div class="container left">
           <div class="content">
             <h2>June 2021 — Present</h2>

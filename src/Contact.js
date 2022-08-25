@@ -7,8 +7,6 @@ class Contact extends Component {
       <div id="contact" className="contact">
         <div className="contact-box">
           <h1>Contact Me</h1>
-          <p><b>Professional inquiries only, please.</b></p>
-          <sup>(Inquiries about D&D, indie games, fantasy novels, or hiking also acceptable)</sup>
           <div id="contact-form" class="form">
             <form action="https://formspree.io/f/xdoypqvy" method="POST">
               <input type="hidden" name="_subject" value="Contact request from kate-swartz.com" />

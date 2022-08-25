@@ -4,7 +4,8 @@
 }
 
 .projects h1 {
-  margin-left: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .projects-container {
@@ -24,7 +25,7 @@
 
 @media screen and (max-width: 600px) {
   .project {
-    width: 80%
+    width: 90%
   }
 }
 

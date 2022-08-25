@@ -51,4 +51,7 @@ sup {
     margin-left: -5.0%;
     margin-right: -5.0%;
   }
+  textarea {
+      width: 100%;
+  }
 }
